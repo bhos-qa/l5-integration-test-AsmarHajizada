@@ -22,3 +22,7 @@ You can run the following commands in terminal to run the integration test and g
     ./gradlew build
     ./gradlew test
 ```
+
+## TEST RESULTS
+All 3 tests have successfull results:
+![Screenshot 2022-10-09 181219](https://user-images.githubusercontent.com/71691828/194761652-9612c2b4-db12-44f8-b3f3-fc1eb49caf5c.png)
